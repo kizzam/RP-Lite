@@ -1,0 +1,13 @@
+Line 15: Class SSPanel of control MsgPanel was not a loaded control class.
+Line 26: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 35: Class SSCommand of control CmdCancel was not a loaded control class.
+Line 51: Class SSCommand of control CmdOK was not a loaded control class.
+Line 16: The property name BevelInner in MsgPanel is invalid.
+Line 17: The property name BevelOuter in MsgPanel is invalid.
+Line 18: The property name Font3D in MsgPanel is invalid.
+Line 27: The property name BevelInner in Panel3D1 is invalid.
+Line 28: The property name Font3D in Panel3D1 is invalid.
+Line 36: The property name Caption in CmdCancel is invalid.
+Line 37: The property name Font3D in CmdCancel is invalid.
+Line 52: The property name Caption in CmdOK is invalid.
+Line 53: The property name Font3D in CmdOK is invalid.

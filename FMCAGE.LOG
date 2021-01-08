@@ -1,0 +1,23 @@
+Line 29: Class SSPanel of control Panel3D2 was not a loaded control class.
+Line 37: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 45: Class SSCommand of control ButtDelete was not a loaded control class.
+Line 55: Class SSCommand of control ButtAdd was not a loaded control class.
+Line 65: Class SSCommand of control ButtUpdate was not a loaded control class.
+Line 75: Class SSCommand of control ButtCancel was not a loaded control class.
+Line 85: Class SSCommand of control ButtOK was not a loaded control class.
+Line 95: Class SSCommand of control cmdPrint was not a loaded control class.
+Line 30: The property name BevelInner in Panel3D2 is invalid.
+Line 38: The property name BevelInner in Panel3D1 is invalid.
+Line 39: The property name BevelOuter in Panel3D1 is invalid.
+Line 46: The property name Caption in ButtDelete is invalid.
+Line 47: The property name Font3D in ButtDelete is invalid.
+Line 56: The property name Caption in ButtAdd is invalid.
+Line 57: The property name Font3D in ButtAdd is invalid.
+Line 66: The property name Caption in ButtUpdate is invalid.
+Line 67: The property name Font3D in ButtUpdate is invalid.
+Line 76: The property name Caption in ButtCancel is invalid.
+Line 77: The property name Font3D in ButtCancel is invalid.
+Line 86: The property name Caption in ButtOK is invalid.
+Line 87: The property name Font3D in ButtOK is invalid.
+Line 96: The property name Caption in cmdPrint is invalid.
+Line 97: The property name Font3D in cmdPrint is invalid.

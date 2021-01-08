@@ -1,0 +1,18 @@
+Line 54: Class CSComboBox of control CSCombo1 was not a loaded control class.
+Line 55: The property name AutoSearch in CSCombo1 is invalid.
+Line 56: The property name BorderEffect in CSCombo1 is invalid.
+Line 57: The property name ColDelim in CSCombo1 is invalid.
+Line 58: The property name ColWidth in CSCombo1 is invalid.
+Line 59: The property name Contents in CSCombo1 is invalid.
+Line 60: The property name Dropped in CSCombo1 is invalid.
+Line 61: The property name FoundIndex in CSCombo1 is invalid.
+Line 64: The property name ListBoxHeight in CSCombo1 is invalid.
+Line 65: The property name ListBoxWidth in CSCombo1 is invalid.
+Line 66: The property name ListDataFields in CSCombo1 is invalid.
+Line 67: The property name ListDataSource in CSCombo1 is invalid.
+Line 68: The property name SearchString in CSCombo1 is invalid.
+Line 69: The property name Sorted in CSCombo1 is invalid.
+Line 70: The property name StartSearch in CSCombo1 is invalid.
+Line 72: The property name Text in CSCombo1 is invalid.
+Line 73: The property name TextDisplay in CSCombo1 is invalid.
+Line 75: The property name ValueCol in CSCombo1 is invalid.

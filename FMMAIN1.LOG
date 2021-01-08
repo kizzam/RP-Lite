@@ -1,0 +1,38 @@
+Line 18: Class SSPanel of control Panel3D2 was not a loaded control class.
+Line 85: Class SSFrame of control Frame3D2 was not a loaded control class.
+Line 95: Class SSCommand of control CmdLstTeams was not a loaded control class.
+Line 111: Class SSCommand of control Butt3DBreeding was not a loaded control class.
+Line 127: Class SSCommand of control Butt3DExit was not a loaded control class.
+Line 142: Class SSCommand of control Butt3DReports was not a loaded control class.
+Line 157: Class SSCommand of control Butt3Contacts was not a loaded control class.
+Line 174: Class SSPanel of control Panel3D4 was not a loaded control class.
+Line 191: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 202: Class SSFrame of control Frame3D1 was not a loaded control class.
+Line 290: Class SSPanel of control MsgPanel was not a loaded control class.
+Line 19: The property name BevelInner in Panel3D2 is invalid.
+Line 20: The property name BevelOuter in Panel3D2 is invalid.
+Line 21: The property name Font3D in Panel3D2 is invalid.
+Line 86: The property name Caption in Frame3D2 is invalid.
+Line 87: The property name Font3D in Frame3D2 is invalid.
+Line 91: The property name ShadowStyle in Frame3D2 is invalid.
+Line 96: The property name Caption in CmdLstTeams is invalid.
+Line 97: The property name Font3D in CmdLstTeams is invalid.
+Line 112: The property name Caption in Butt3DBreeding is invalid.
+Line 113: The property name Font3D in Butt3DBreeding is invalid.
+Line 128: The property name Caption in Butt3DExit is invalid.
+Line 129: The property name Font3D in Butt3DExit is invalid.
+Line 143: The property name Caption in Butt3DReports is invalid.
+Line 144: The property name Font3D in Butt3DReports is invalid.
+Line 158: The property name Caption in Butt3Contacts is invalid.
+Line 159: The property name Font3D in Butt3Contacts is invalid.
+Line 175: The property name BevelInner in Panel3D4 is invalid.
+Line 176: The property name Caption in Panel3D4 is invalid.
+Line 177: The property name Font3D in Panel3D4 is invalid.
+Line 192: The property name BevelInner in Panel3D1 is invalid.
+Line 193: The property name Caption in Panel3D1 is invalid.
+Line 194: The property name Font3D in Panel3D1 is invalid.
+Line 203: The property name Caption in Frame3D1 is invalid.
+Line 204: The property name Font3D in Frame3D1 is invalid.
+Line 214: The property name ShadowStyle in Frame3D1 is invalid.
+Line 291: The property name BevelInner in MsgPanel is invalid.
+Line 292: The property name Font3D in MsgPanel is invalid.

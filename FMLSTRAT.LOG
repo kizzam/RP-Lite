@@ -1,0 +1,33 @@
+Line 15: Class SSPanel of control MsgBox2 was not a loaded control class.
+Line 26: Class SSPanel of control MsgBox1 was not a loaded control class.
+Line 37: Class SSPanel of control MsgBox was not a loaded control class.
+Line 48: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 111: Class SSCommand of control cmdPrint was not a loaded control class.
+Line 153: Class SSCommand of control CmdDelete was not a loaded control class.
+Line 163: Class SSCommand of control CmdUpdate was not a loaded control class.
+Line 173: Class SSCommand of control CmdAdd was not a loaded control class.
+Line 183: Class SSCommand of control CmdCancel was not a loaded control class.
+Line 193: Class SSCommand of control CmdOK was not a loaded control class.
+Line 16: The property name BevelInner in MsgBox2 is invalid.
+Line 17: The property name BevelOuter in MsgBox2 is invalid.
+Line 18: The property name Font3D in MsgBox2 is invalid.
+Line 27: The property name BevelInner in MsgBox1 is invalid.
+Line 28: The property name BevelOuter in MsgBox1 is invalid.
+Line 29: The property name Font3D in MsgBox1 is invalid.
+Line 38: The property name BevelInner in MsgBox is invalid.
+Line 39: The property name BevelOuter in MsgBox is invalid.
+Line 40: The property name Font3D in MsgBox is invalid.
+Line 49: The property name BevelInner in Panel3D1 is invalid.
+Line 50: The property name Font3D in Panel3D1 is invalid.
+Line 112: The property name Caption in cmdPrint is invalid.
+Line 113: The property name Font3D in cmdPrint is invalid.
+Line 154: The property name Caption in CmdDelete is invalid.
+Line 155: The property name Font3D in CmdDelete is invalid.
+Line 164: The property name Caption in CmdUpdate is invalid.
+Line 165: The property name Font3D in CmdUpdate is invalid.
+Line 174: The property name Caption in CmdAdd is invalid.
+Line 175: The property name Font3D in CmdAdd is invalid.
+Line 184: The property name Caption in CmdCancel is invalid.
+Line 185: The property name Font3D in CmdCancel is invalid.
+Line 194: The property name Caption in CmdOK is invalid.
+Line 195: The property name Font3D in CmdOK is invalid.

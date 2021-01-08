@@ -1,0 +1,11 @@
+Line 15: Class SSPanel of control MsgPanel was not a loaded control class.
+Line 25: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 33: Class SSCommand of control ButtCancel was not a loaded control class.
+Line 49: Class SSCommand of control ButtOK was not a loaded control class.
+Line 16: The property name BevelInner in MsgPanel is invalid.
+Line 17: The property name BevelOuter in MsgPanel is invalid.
+Line 26: The property name BevelInner in Panel3D1 is invalid.
+Line 34: The property name Caption in ButtCancel is invalid.
+Line 35: The property name Font3D in ButtCancel is invalid.
+Line 50: The property name Caption in ButtOK is invalid.
+Line 51: The property name Font3D in ButtOK is invalid.

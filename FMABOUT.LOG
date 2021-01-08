@@ -1,0 +1,65 @@
+Line 15: Class SSPanel of control Panel3D2 was not a loaded control class.
+Line 25: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 34: Class SSCommand of control ButtPrtOrder was not a loaded control class.
+Line 50: Class SSCommand of control cmdPrtSys was not a loaded control class.
+Line 66: Class SSCommand of control ButtOK was not a loaded control class.
+Line 82: Class SSFrame of control Frame3D1 was not a loaded control class.
+Line 110: Class SSCommand of control cmdDemo was not a loaded control class.
+Line 126: Class SSPanel of control Panel3D10 was not a loaded control class.
+Line 138: Class SSPanel of control Panel3D9 was not a loaded control class.
+Line 150: Class SSPanel of control Panel3D8 was not a loaded control class.
+Line 162: Class SSPanel of control PnlDBVersion was not a loaded control class.
+Line 174: Class SSPanel of control Panel3D7 was not a loaded control class.
+Line 186: Class SSPanel of control Panel3D6 was not a loaded control class.
+Line 197: Class SSPanel of control Panel3D5 was not a loaded control class.
+Line 208: Class SSPanel of control Panel3D4 was not a loaded control class.
+Line 220: Class SSPanel of control Panel3D3 was not a loaded control class.
+Line 16: The property name BevelInner in Panel3D2 is invalid.
+Line 17: The property name BevelOuter in Panel3D2 is invalid.
+Line 26: The property name BevelInner in Panel3D1 is invalid.
+Line 27: The property name BevelOuter in Panel3D1 is invalid.
+Line 35: The property name Caption in ButtPrtOrder is invalid.
+Line 36: The property name Font3D in ButtPrtOrder is invalid.
+Line 51: The property name Caption in cmdPrtSys is invalid.
+Line 52: The property name Font3D in cmdPrtSys is invalid.
+Line 67: The property name Caption in ButtOK is invalid.
+Line 68: The property name Font3D in ButtOK is invalid.
+Line 83: The property name Caption in Frame3D1 is invalid.
+Line 84: The property name Font3D in Frame3D1 is invalid.
+Line 88: The property name ShadowStyle in Frame3D1 is invalid.
+Line 111: The property name Caption in cmdDemo is invalid.
+Line 112: The property name Font3D in cmdDemo is invalid.
+Line 127: The property name Alignment in Panel3D10 is invalid.
+Line 128: The property name BevelInner in Panel3D10 is invalid.
+Line 129: The property name BevelOuter in Panel3D10 is invalid.
+Line 130: The property name Caption in Panel3D10 is invalid.
+Line 139: The property name Alignment in Panel3D9 is invalid.
+Line 140: The property name BevelInner in Panel3D9 is invalid.
+Line 141: The property name BevelOuter in Panel3D9 is invalid.
+Line 142: The property name Caption in Panel3D9 is invalid.
+Line 151: The property name Alignment in Panel3D8 is invalid.
+Line 152: The property name BevelInner in Panel3D8 is invalid.
+Line 153: The property name BevelOuter in Panel3D8 is invalid.
+Line 154: The property name Caption in Panel3D8 is invalid.
+Line 163: The property name Alignment in PnlDBVersion is invalid.
+Line 164: The property name BevelInner in PnlDBVersion is invalid.
+Line 165: The property name BevelOuter in PnlDBVersion is invalid.
+Line 166: The property name Caption in PnlDBVersion is invalid.
+Line 175: The property name Alignment in Panel3D7 is invalid.
+Line 176: The property name BevelInner in Panel3D7 is invalid.
+Line 177: The property name BevelOuter in Panel3D7 is invalid.
+Line 178: The property name Caption in Panel3D7 is invalid.
+Line 187: The property name BevelInner in Panel3D6 is invalid.
+Line 188: The property name BevelOuter in Panel3D6 is invalid.
+Line 189: The property name Caption in Panel3D6 is invalid.
+Line 198: The property name BevelInner in Panel3D5 is invalid.
+Line 199: The property name BevelOuter in Panel3D5 is invalid.
+Line 200: The property name Caption in Panel3D5 is invalid.
+Line 209: The property name Alignment in Panel3D4 is invalid.
+Line 210: The property name BevelInner in Panel3D4 is invalid.
+Line 211: The property name BevelOuter in Panel3D4 is invalid.
+Line 212: The property name Caption in Panel3D4 is invalid.
+Line 221: The property name Alignment in Panel3D3 is invalid.
+Line 222: The property name BevelInner in Panel3D3 is invalid.
+Line 223: The property name BevelOuter in Panel3D3 is invalid.
+Line 224: The property name Caption in Panel3D3 is invalid.

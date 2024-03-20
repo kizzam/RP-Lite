@@ -1,0 +1,17 @@
+Line 15: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 23: Class SSCommand of control ButtCancel was not a loaded control class.
+Line 39: Class SSCommand of control ButtOK was not a loaded control class.
+Line 131: Class SSFrame of control Frame3D1 was not a loaded control class.
+Line 141: Class SSOption of control ToPrinter was not a loaded control class.
+Line 150: Class SSOption of control ToScreen was not a loaded control class.
+Line 16: The property name BevelInner in Panel3D1 is invalid.
+Line 24: The property name Caption in ButtCancel is invalid.
+Line 25: The property name Font3D in ButtCancel is invalid.
+Line 40: The property name Caption in ButtOK is invalid.
+Line 41: The property name Font3D in ButtOK is invalid.
+Line 132: The property name Caption in Frame3D1 is invalid.
+Line 133: The property name Font3D in Frame3D1 is invalid.
+Line 137: The property name ShadowStyle in Frame3D1 is invalid.
+Line 142: The property name Caption in ToPrinter is invalid.
+Line 151: The property name Caption in ToScreen is invalid.
+Line 156: The property name Value in ToScreen is invalid.

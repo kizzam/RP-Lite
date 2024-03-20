@@ -1,0 +1,6 @@
+Line 15: Class SSPanel of control Panel3D1 was not a loaded control class.
+Line 24: Class SSCommand of control cmdExit was not a loaded control class.
+Line 16: The property name BevelInner in Panel3D1 is invalid.
+Line 17: The property name Font3D in Panel3D1 is invalid.
+Line 25: The property name Caption in cmdExit is invalid.
+Line 26: The property name Font3D in cmdExit is invalid.
